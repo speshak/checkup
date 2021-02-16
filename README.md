@@ -12,7 +12,7 @@
 
 ---
 ## Example Usage :
-
+4trh
 
 ``` bash
 checkup listen -e https://google.com # default code is 200
